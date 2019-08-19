@@ -1,1 +1,1 @@
-# chat
+# Minimalist multiroom chat server
